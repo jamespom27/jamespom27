@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there! 👋
+I'm James, a passionate software developer and tech enthusiast. Welcome to my GitHub profile!
 
-<!--
-**jamespom27/jamespom27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: 
 
-Here are some ideas to get you started:
+🌱 I'm currently learning: Vs code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: sports
+
+📫 How to reach me: james.pomakov@student.tdsb.on.ca
+
+⚡ Fun fact: I like sports
+
+👨‍💻 Languages and Tools: HTML
